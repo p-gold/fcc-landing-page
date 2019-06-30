@@ -1,0 +1,31 @@
+/*img{
+    width: 100%;
+    height: auto;
+    display: block;
+  }*/
+
+
+    @media screen and (max-width:  768px){
+        #nav-bar{
+            width: 10%;
+            height: auto;
+            display: block;
+        }
+
+        .flowers{
+            img{
+                width: 100%;
+                height: auto;
+                display: block;
+              }
+        }
+        #video{
+            height: auto;
+            width: 100%;
+        }
+        .flower3{
+            img{
+                height: 90px;
+            }
+        }
+    }
